@@ -1,0 +1,9 @@
+.style {
+  color: blue;
+  padding: 20px 10px;
+  background: url(../../assests/images/images.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
